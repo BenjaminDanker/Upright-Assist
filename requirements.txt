@@ -1,0 +1,6 @@
+adafruit-circuitpython-motorkit
+adafruit-circuitpython-pca9685
+adafruit-blinka
+gpiozero
+pvporcupine
+pyaudio
