@@ -142,4 +142,5 @@ This project is licensed under the MIT License. See [LICENSE.md](LICENSE.md) for
 ## Acknowledgments
 
 Developed as an assistive solution to improve seated stability and
-autonomy for individuals with neuromuscular conditions.
+autonomy for individuals with neuromuscular conditions. I’d like to thank Alejandro Gallo, Jesse Spencer, and Nils Hakansson for their work and help throughout this project.
+
